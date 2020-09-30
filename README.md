@@ -1,26 +1,21 @@
-# HactoberFest
-## Give back to Open source this october!
-
-This project is perfect for your first pull request.
-Collaborate and nominate yourself to become active volunteer of AndroidTechies community.
-
-## What To Do
-Add your name and smomething about yourself to a new "yourname.md" file at the Contributions folder (See instructions for refrence)
-Add your github username to "Volunteer_Nomination.md" file and we will add you to the Android Techies organization. 
-
-## Instructions-
-
-- Fork this Repository using the button at the top
-- Clone your forked repository to your pc
-- Create a new branch for your modifications (ie. ```git branch new-user``` and check it out ```git checkout new-user``` or ``` git checkout -b new-user```)
-- Tell us about yourself in a file of your name.md
-- If you want to join the organization on github, add your github username to Volunteer_Nomination.md
-- Add your file (```git add name.md```),(```git add Volunteer_Nomination.md```), commit (```git commit -m "added myself"```) and push (```git push origin new-user```)
-- Create a pull request
-- Star this repository
-- Wait for Pull Request to merge
-- Celebrate - you've done your first pull request!!
-
-
-Read about markdown syntax here
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+          <!-- CARD #1 -->
+          <div class="content-body">
+            <div class="card">
+              <div class="card-header">
+                <h4>Tata Consultancy Services Limited (TCS)<span class="job-title">Information Security Analyst</span></h4>
+              </div>
+              <div class="card-content">
+                <p>
+                	<ul>
+						<li> Conducted Vulnerability Assessment &amp; Penetration Testing across Web and Mobile Applications, Web Services and Thick Clients</li>
+						<li> Involve in Red Team Activities and Research in IoT security.</li>
+						<li> Active Member of TCS Cyber Security Community and Center of Excellence Team.</li>
+						<li> Experience of conducting Penetration Testing using commercial and open source tools.</li>
+						<li> Independent Security Research, Feasibility Study, PoC Implementation &amp; Evaluation</li>
+						<li> Automating Security assessments and developing secure libraries to be used within the organisation (Python, JavaScript).</li>
+						<li> Mentor freshers in Application Security and Security Engineering. </li>
+						<li> Navigates self into ethical hacking domain with active participation in security specific conferences, webinars and CTF contests.</li>
+                	</ul>
+                </p>
+              </div>
+            </div>
